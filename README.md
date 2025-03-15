@@ -1,4 +1,4 @@
-# Project 3 - Trvia
+# Project 3 - Trivia
 
 Submitted by: Venus Nguyen
 
